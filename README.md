@@ -63,9 +63,6 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="55" height="55"/>
-  </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
   </a>
@@ -83,9 +80,6 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/>
   </a>
   <a href="https://www.netlify.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/>
