@@ -6,6 +6,9 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@annor0543-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/annor0543)](https://twitter.com/annor0543)
+[![LinkedIn Badge](https://img.shields.io/badge/-stephen-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/kwesi-appiah-1387801a1/)
+[![Gmail Badge](https://img.shields.io/badge/-saakpt77@yahoo.com-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:saakpt77@gmail.com)
+
 
 <!-- TODO: Add last video link -->
 
