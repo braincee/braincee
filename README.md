@@ -22,7 +22,6 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 - 😄 Pronouns: Microverse, Stephen, braincee.
 - ⚡ Fun fact: I play games and spend time with family.
 
-#### 1.0.1. Top Languages & Tools
 
 <!-- TODO: Make technologies links takes you to repositories -->
 <h3>
@@ -38,7 +37,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/>
-  </a>
+  </a><br>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
   </a>
