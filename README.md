@@ -37,10 +37,10 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/>
-  </a><br>
+  </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
-  </a>
+  </a><br>
   <a href="https://rubyonrails.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="55" height="55"/>
   </a>
@@ -54,11 +54,10 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="55" height="55"/>
   </a>
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original.svg" alt="webpack" width="55" height="55"/></a><br>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="55" height="55"/>
   </a>
-   <br>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>
   </a>
@@ -73,7 +72,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
-  </a>
+  </a><br>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="aws" width="55" height="55"/>
   </a>
@@ -88,11 +87,11 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://www.netlify.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/>
-  </a>
+  </a><br>
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
   </a>
-</h3><br>
+</h3>
 
 <br />
 <br />
