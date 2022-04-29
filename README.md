@@ -32,7 +32,7 @@ effective collaborating with other coding partners.
 
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<h3>
+<h3 align="center">
   <b>💻&nbsp; Languages and Tools</b><br/><br/>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
@@ -103,7 +103,7 @@ effective collaborating with other coding partners.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
 
-<!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
+[![My Badge](https://img.shields.io/badge/i_am-stephen--db-blue)](https://github.com/braincee)
 </div>
 
 #### 2. GitHub Stats
