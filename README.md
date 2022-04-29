@@ -6,6 +6,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 I'm Stephen Annor, a self-taught Full-stack developer. 
 I Spend most of my time learning new things, coding outstanding projects and 
 effective collaborating with other coding partners.
+
 ```
 
 ---
@@ -20,10 +21,10 @@ effective collaborating with other coding partners.
 
 <!-- About Me -->
 
-#### About Me:
+#### 1. About Me:
 
 - 🔭 I’m currently studing at Microverse
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code `git push origin main`
 - 🤔 Reach me out lets write the code.
 - 📫 How to reach me: saakpt77@yahoo.com
 - 😄 Pronouns: Microverse, Stephen, braincee.
@@ -98,6 +99,17 @@ effective collaborating with other coding partners.
 <br />
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=github-readme-stats)](https://github.com/braincee/github-readme-stats)
+
+
+<a href="https://github.com/braincee/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/braincee/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=convoychat" />
+</a>
+
+
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
@@ -105,13 +117,13 @@ effective collaborating with other coding partners.
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
 
-#### GitHub Stats
+#### 2. GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
 
 
-####  Coding Stats
+####  3. Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
