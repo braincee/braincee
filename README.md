@@ -46,8 +46,8 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 <br />
 <br />
 
-#### 1.1.1. Bizness
-- :email: saakpt77@yahoo.cm
+#### 1.1.1. Business
+- :email: saakpt77@yahoo.com
 
 
 #### 1.1.2. Profile Visits 
@@ -56,11 +56,12 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 
 #### GitHub Stats
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)
 
 #### 1.1.4. Coding Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
