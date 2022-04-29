@@ -97,12 +97,10 @@ effective collaborating with other coding partners.
 <br />
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
+
 <div align="center">
 
-[![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/mavericks-db?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/mavericks-db?color=blue)](https://github.com/mavericks-db)
-
-[![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
 
 <!-- [![My Badge](https://img.shields.io/badge/i_am-mavericks--db-blue)](https://github.com/mavericks-db) -->
 </div>
