@@ -99,7 +99,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 #### GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=contact)](https://github.com/braincee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
 
 
 #### 1.1.4. Coding Stats
