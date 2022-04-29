@@ -116,5 +116,8 @@ effective collaborating with other coding partners.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+#### Coding Stats
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/673fdd70-6c20-40f8-8328-edf9f1cc6ce6.png" /></a>
 
 
