@@ -118,6 +118,6 @@ effective collaborating with other coding partners.
 
 #### Coding Stats
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/673fdd70-6c20-40f8-8328-edf9f1cc6ce6.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" /></a>
 
 
