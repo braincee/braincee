@@ -5,7 +5,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@annor0543-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/annor0543)]
+[![Twitter Badge](https://img.shields.io/badge/-@annor0543-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/annor0543)](https://twitter.com/annor0543)
 
 <!-- TODO: Add last video link -->
 
