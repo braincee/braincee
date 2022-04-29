@@ -96,13 +96,10 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 <br />
 <br />
 
-#### 1.1.1. Business
-- :email: saakpt77@yahoo.com
-
 #### GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula)](https://github.com/braincee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=contact)](https://github.com/braincee/github-readme-stats)
 
 
 #### 1.1.4. Coding Stats
