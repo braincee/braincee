@@ -1,4 +1,5 @@
 ## 1. Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
 
 I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DEVELOPER . I Spend most of my time learning new things, coding outstanding projects and effective collaborating with other coding partners.
 
@@ -101,14 +102,10 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 #### 1.1.1. Business
 - :email: saakpt77@yahoo.com
 
-
-#### 1.1.2. Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
-
 #### GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&exclude_repo=exercise-hello-world,project-three-using-bootstrap,project-week-one,product-landing-page,training-contact-form&layout=compact&theme=calm" height="194"></a>
 
 #### 1.1.4. Coding Stats
 
