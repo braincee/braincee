@@ -111,13 +111,11 @@ effective collaborating with other coding partners.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
 
 
-#### 1.1.4. Coding Stats
+####  Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### Coding Stats
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height=200 /></a>
 
 
