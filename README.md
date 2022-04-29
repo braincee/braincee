@@ -83,7 +83,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
   </a>
   <a href="https://www.netlify.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="55" height="55"/>
-  </a><br>
+  </a>
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
   </a>
