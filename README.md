@@ -3,7 +3,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 </h1>
 
 ```
-I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DEVELOPER . 
+I'm Stephen Annor, a self-taught Full-stack developer. 
 I Spend most of my time learning new things, coding outstanding projects and 
 effective collaborating with other coding partners.
 ```
