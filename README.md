@@ -104,8 +104,7 @@ I'm Stephen Annor, a student at Microverse and studing to become a FULL-STACK DE
 
 #### 1.1.4. Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braincee)](https://github.com/braincee/github-readme-stats)
 
 
 
