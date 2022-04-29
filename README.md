@@ -98,6 +98,7 @@ effective collaborating with other coding partners.
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=braincee"/> -->
 
 #### GitHub Stats
 
