@@ -99,17 +99,6 @@ effective collaborating with other coding partners.
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=github-readme-stats)](https://github.com/braincee/github-readme-stats)
-
-
-<a href="https://github.com/braincee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/braincee/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=braincee&repo=convoychat" />
-</a>
-
-
 <div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
