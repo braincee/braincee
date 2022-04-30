@@ -18,10 +18,10 @@ effective collaborating with other coding partners.
 [![Gmail Badge](https://img.shields.io/badge/-saakpt77@yahoo.com-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:saakpt77@yahoo.com)
 [![Twitter Badge](https://img.shields.io/badge/-@annor0543-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/annor0543)](https://twitter.com/annor0543)
 
-<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
- <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
- <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
+<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
+ <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
+ <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
 
 
 <!-- About Me -->
