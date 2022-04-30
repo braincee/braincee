@@ -16,15 +16,16 @@ effective collaborating with other coding partners.
 ```
 
 
-<h2>:mailbox: Kindly reach me through!</h2>
+<h4> :heart: Lets get connected!</h4>
 
 <div align="center">
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
 <a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
+<a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
  <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
- <a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
  </div>
+ 
 
 
 <!-- TODO: Make technologies links takes you to repositories -->
