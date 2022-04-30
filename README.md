@@ -126,5 +126,7 @@ effective collaborating with other coding partners.
  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
  </div>
  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee)
+ 
 
 
