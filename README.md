@@ -125,5 +125,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
  </div>
  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee)
+ 
 
 
