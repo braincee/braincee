@@ -108,10 +108,13 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 </div>
 
+<br>
+<br>
+<br>
 
 <h2> :heart: Lets get connected!</h2>
 
-<div>
+<div align="center">
 <a href="https://github.com/braincee" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
   </a>
