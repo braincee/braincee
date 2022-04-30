@@ -5,7 +5,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 ```
 - 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
 
-- ⏳ I code and learn new skills daily, build projects and collaborate with coding partners.
+- ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
 
 - 🔭 Currently sharpening my skills at Microverse
 
