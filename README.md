@@ -9,7 +9,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 - 🔭 Currently sharpening my skills at Microverse
 
-- 💻 Most used line of code `git push origin main`
+- 💻 Most used line of code **git push origin main**
 
 - ✍️ Quote: One man’s crappy software is another man’s full-time job.
 
