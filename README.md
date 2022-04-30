@@ -6,7 +6,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 - 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
 - ⏳ I Spend most of my time learning new things, coding outstanding projects and 
    effective collaborating with other coding partners.
-- 🔭 Cureently sharpening my skills at ***MICROVERSE***
+- 🔭 Cureently sharpening my skills at Microverse
 - 💻 Most used line of code `git push origin main`
 - 
 - 🤔 Reach out to me lets write the code.
@@ -94,7 +94,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
 
-[![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/master?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
 
 </div>
 
