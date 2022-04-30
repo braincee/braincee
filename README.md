@@ -35,12 +35,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="55" height="55"/>
   </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
-  </a>
-  <a href="https://rubyonrails.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="55" height="55"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>
@@ -60,6 +54,12 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
   </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
+  </a>
+  <a href="https://rubyonrails.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="55" height="55"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
