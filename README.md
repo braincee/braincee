@@ -16,20 +16,6 @@ effective collaborating with other coding partners.
 ```
 
 
-<h2> :heart: Lets get connected!</h2>
-
-<div align="center">
-<a href="https://github.com/braincee" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
-  </a>
-<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
-<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
-<a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
- <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
- <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
- </div>
- 
-
 <h2>🛠️ Languages and Tools</h2>
 
 <div>
@@ -123,5 +109,19 @@ effective collaborating with other coding partners.
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height="200" width="500" /></a>  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png"  height="200" width="500"/></a>
 
 </div>
+
+<h2> :heart: Lets get connected!</h2>
+
+<div align="center">
+<a href="https://github.com/braincee" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
+  </a>
+<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
+<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
+<a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
+ <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
+ <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
+ </div>
+ 
 
 
