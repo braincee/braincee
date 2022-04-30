@@ -16,7 +16,7 @@ effective collaborating with other coding partners.
 ```
 
 
-<h4> :heart: Lets get connected!</h4>
+<h3> :heart: Lets get connected!</h3>
 
 <div align="center">
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
@@ -27,10 +27,9 @@ effective collaborating with other coding partners.
  </div>
  
 
+<h3>🛠️ Languages and Tools</h3>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-<h3 align="center">
-  <b>🛠️&nbsp; Languages and Tools</b><br/><br/>
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
   </a>
@@ -90,7 +89,7 @@ effective collaborating with other coding partners.
   <a href="https://github.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="55" height="55"/>
   </a>
-</h3>
+</div>
 
 <br />
 <br />
