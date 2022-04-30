@@ -3,7 +3,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 </h1>
 
 ```
-I'm Stephen Annor, a self-taught Full-stack developer. 
+- I'm Stephen Annor, a self-taught Full-stack developer. 
 I Spend most of my time learning new things, coding outstanding projects and 
 effective collaborating with other coding partners.
 - 🔭 I’m currently studing at Microverse
@@ -95,6 +95,7 @@ effective collaborating with other coding partners.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
+<a href="https://github.com/braincee/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/braincee/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 
 </div>
 
