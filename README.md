@@ -73,7 +73,7 @@ effective collaborating with other coding partners.
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
-  </a><br>
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="aws" width="55" height="55"/>
   </a>
