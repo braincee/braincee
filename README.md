@@ -2,28 +2,29 @@
 Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 </h1>
 
+```
+
 I'm Stephen Annor, a self-taught Full-stack developer. 
 I Spend most of my time learning new things, coding outstanding projects and 
 effective collaborating with other coding partners.
-
-:mailbox: Kindly reach me through!
-
-<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
-<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
- <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
- <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
-
-
-<!-- About Me -->
-
-#### 1. About Me:
-
 - 🔭 I’m currently studing at Microverse
 - :computer: Most used line of code `git push origin main`
 - 🤔 Reach me out lets write the code.
 - 📫 How to reach me: saakpt77@yahoo.com
 - 😄 Pronouns: Microverse, Stephen, braincee.
 - ⚡ Fun fact: I play games and spend time with family.
+
+```
+
+<h2>:mailbox: Kindly reach me through!</h2>
+
+<div align="center">
+<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
+<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
+ <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="55" height="55"/></a>
+ <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
+ <a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
+ </div>
 
 
 <!-- TODO: Make technologies links takes you to repositories -->
