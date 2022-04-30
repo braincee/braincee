@@ -18,7 +18,7 @@ effective collaborating with other coding partners.
 
 <h3> :heart: Lets get connected!</h3>
 
-<div align="center">
+<div align="space-evenly">
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
 <a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
 <a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
@@ -29,7 +29,7 @@ effective collaborating with other coding partners.
 
 <h3>🛠️ Languages and Tools</h3>
 
-<div align="center">
+<div>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
   </a>
