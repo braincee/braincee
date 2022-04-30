@@ -99,6 +99,8 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
 
+![License](https://img.shields.io/github/license/braincee/braincee?style=flat)
+
 </div>
 
 
