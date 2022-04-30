@@ -101,7 +101,7 @@ effective collaborating with other coding partners.
 
 <div align="center">
 
-#### 2. GitHub Stats
+<h2>GITHUB STATS</h2>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
@@ -109,7 +109,7 @@ effective collaborating with other coding partners.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
 
 
-####  3. Coding Stats
+<h2>CODING STATS</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
