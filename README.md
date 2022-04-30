@@ -16,9 +16,9 @@ effective collaborating with other coding partners.
 ```
 
 
-<h3> :heart: Lets get connected!</h3>
+<h2> :heart: Lets get connected!</h2>
 
-<div align="space-evenly">
+<div align="center">
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="55" height="55"/></a>
 <a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="55" height="55"/></a>
 <a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="55" height="55"/></a>
@@ -27,7 +27,7 @@ effective collaborating with other coding partners.
  </div>
  
 
-<h3>🛠️ Languages and Tools</h3>
+<h2>🛠️ Languages and Tools</h2>
 
 <div>
   <a href="https://www.w3.org/html/" target="_blank">
@@ -44,7 +44,7 @@ effective collaborating with other coding partners.
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="55" height="55"/>
-  </a><br>
+  </a>
   <a href="https://rubyonrails.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="55" height="55"/>
   </a>
