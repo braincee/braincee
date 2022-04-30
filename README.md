@@ -101,7 +101,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <h2>CODING STATS</h2>
 
----
 
 <div>
 
@@ -109,10 +108,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 </div>
 
-<br>
-<br>
-
----
 
 <h2> :heart: Lets get connected!</h2>
 
