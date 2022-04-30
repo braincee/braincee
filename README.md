@@ -4,11 +4,15 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 ```
 - 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
-- ⏳ I Spend most of my time learning new things, coding outstanding projects and 
-   effective collaborating with other coding partners.
+
+- ⏳ I Spend most of my time learning new things, coding outstanding projects and effective collaborating with other coding partners.
+
 - 🔭 Currently sharpening my skills at Microverse
+
 - 💻 Most used line of code `git push origin main`
-- 
+
+- ✍️ Quote: One man’s crappy software is another man’s full-time job.
+
 - 👯 Reach out to me lets write the code.
 
 ```
@@ -85,7 +89,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <h2> ⚡ GITHUB STATS</h2>
 
----
 
 <div align="center">
 
