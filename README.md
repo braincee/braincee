@@ -92,8 +92,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=braincee&theme=gruvbox" /> 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/mavericks-db?color=blue)](https://github.com/braincee?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://github.com/braincee)
 
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
@@ -110,7 +108,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height="200" width="500" /></a>  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png"  height="200" width="500"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height="200" width="500" /></a>  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png"  height="200" width="500" theme="black"/></a>
 
 </div>
 
@@ -127,7 +125,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="55" height="55"/></a>
  </div>
  
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee)
  
 
 
