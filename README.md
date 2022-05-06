@@ -97,7 +97,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
- <img src="https://wakatime.com/badge/user/ff5ccdfc-f35c-4752-b773-0b66276a364c/project/587e8c46-1506-4677-9307-cdde6b17a47f.svg"/>
  
  
  [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
