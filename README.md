@@ -93,7 +93,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <div align="left">
  
 <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true"/>
-<img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
