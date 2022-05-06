@@ -109,7 +109,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <div>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height="300" width="400" /></a>  <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png"  height="300" width="400"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ef62a0e7-1983-4de6-b2a6-34fdc5d88626.png" height="300" width="400" color="black" /></a>  <a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png"  height="300" width="400"/></a>
 
 </div>
 
