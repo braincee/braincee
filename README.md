@@ -99,8 +99,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
  
- [![stars - braincee](https://img.shields.io/github/stars/braincee/braincee?style=social)](https://github.com/braincee/braincee)
- [![forks - braincee](https://img.shields.io/github/forks/braincee/braincee?style=social)](https://github.com/braincee/braincee)
+ 
  [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 </div>
