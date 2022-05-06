@@ -92,11 +92,9 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&theme=dracula&layout=compact)](https://github.com/braincee/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true)](https://github.com/braincee/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/braincee?color=blue)](https://github.com/braincee?tab=repositories) [![GitHub commits](https://badgen.net/github/commits/braincee/Strapdown.js)](https://GitHub.com/braincee/StrapDown.js/commit/) [![GitHub stars](https://badgen.net/github/stars/braincee/Strapdown.js)](https://GitHub.com/braincee/StrapDown.js/stargazers/)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)  [![Repos Badge](https://badges.pufler.dev/repos/braincee?color=blue)](https://github.com/braincee?tab=repositories)
 [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
  
  
