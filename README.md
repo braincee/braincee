@@ -110,7 +110,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <div align="left">
  
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png" height="300" width="400"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/5e9e0326-db9c-4b4c-b35a-ec32018d734d.svg" height="180" width="420"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/5e9e0326-db9c-4b4c-b35a-ec32018d734d.svg" height="250" width="400"/>
 
 </div>
 
