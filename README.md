@@ -108,8 +108,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 
 <div align="left">
- 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/fa2802e2-9e31-42c6-87dc-93c210428d40.png" height="300" width="400"/></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ad6fe6eb-f0c1-48cc-8bee-4cca05de1696.svg" height="500" width="500"/></a>
 
 </div>
