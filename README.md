@@ -44,6 +44,8 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
  <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="400" width="500">
 <div>
+ <br>
+ <br>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
@@ -58,7 +60,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a><br>
+  </a>
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" alt="babel" width="50" height="50"/>
   </a>
@@ -72,9 +74,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  </a><br>
-  <br>
-  <br>
+  </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
   </a>
@@ -89,7 +89,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  </a>
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
-  </a><br>
+  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="aws" width="50" height="50"/>
   </a>
