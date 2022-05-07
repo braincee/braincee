@@ -42,7 +42,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <h2>🛠️ Languages and Tools</h2>
 
- <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="500" width="600">
+ <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="400" width="400">
 <br>
 <br>
 <div>
