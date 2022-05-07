@@ -28,7 +28,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <div align="right">
     
  <a href="https://github.com/braincee" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="<img src="https://img.icons8.com/nolan/64/github.png"/>" width="40" height="40"/>
   </a>
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
