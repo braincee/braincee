@@ -7,7 +7,8 @@
 
 
 <h1 align="center">
-Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+ Hello Client <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+ I"m  STEPHEN ANNOR
 </h1>
 
 <div align="left">
@@ -26,7 +27,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  </div>
 
 ```
-- 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
+- 👨🏻‍💻 I'm a self-taught Full-Stack developer changing the world with technology.
 
 - ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
 
