@@ -130,8 +130,12 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 </div>
  <br>
  <br>
+ <br>
+ <br>
+ <br>
+ <br>
 
-<h2 align="left"> ⚡ GITHUB STATS</h2>
+<h2> ⚡ GITHUB STATS</h2>
 
 
 <div> 
