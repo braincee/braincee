@@ -121,10 +121,11 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   </a>
 </div>
-&#8287;&#8287;&#8287;
-&#8287;&#8287;&#8287;
-&#8287;&#8287;&#8287;
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2> ⚡ GITHUB STATS</h2>
 
 
