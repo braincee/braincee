@@ -121,13 +121,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2> ⚡ GITHUB STATS</h2>
 
@@ -139,13 +132,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <img height="200" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
  
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2> ⚡ CODING STATS</h2>
 
