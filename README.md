@@ -115,8 +115,6 @@
 <br>
 <br>
 <br>
-**Repositories** to my projects can be found [here](https://github.com/braincee?tab=repositories)
-
 
 <h2> ⚡ GITHUB STATS</h2>
 <div> 
