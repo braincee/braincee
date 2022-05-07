@@ -110,7 +110,9 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
  [![Gists Badge](https://badges.pufler.dev/gists/braincee)](https://badges.pufler.dev)
  [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
-[![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)](https://github.com/brainceel/braincee/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)]
+ (https://github.com/brainceel/braincee/commits)
+  <a href="https://github.com/braincee/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/braincee/awesome-github-profile-readme" alt="Stars Badge"/></a>
  
  
  [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
