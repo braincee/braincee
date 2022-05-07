@@ -16,7 +16,10 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 - 👯 Reach out to me lets write the code.
 
 ```
-<div align="center">
+
+<h2> 🌎 My Global village!</h2>
+
+<div align="right">
 <a href="https://github.com/braincee" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
@@ -127,8 +130,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <br>
 <br>
-
-<h2> 🌎 My Global village!</h2>
 
 
 <!--START_SECTION:waka-->
