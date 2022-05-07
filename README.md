@@ -10,21 +10,6 @@
 Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 </h1>
 
-```
-- 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
-
-- ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
-
-- 🔭 Currently sharpening my skills at Microverse
-
-- 💻 Most used line of code **git push origin main**
-
-- ✍️ Quote: One man’s crappy software is another man’s full-time job.
-
-- 👯 Reach out to me lets write the code.
-
-```
-
 <div align="left">
     
  <a href="https://github.com/braincee" target="_blank"><img src="https://img.icons8.com/nolan/64/github.png" width="40" height="40"/></a>
@@ -39,9 +24,21 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  &#8287;&#8287;&#8287;
  <a href="https://www.instagram.com/appiah.korang/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" width="40" height="40"/></a>
  </div>
-    
 
-  
+```
+- 👨🏻‍💻 I'm Stephen Annor, a self-taught Full-stack developer. 
+
+- ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
+
+- 🔭 Currently sharpening my skills at Microverse
+
+- 💻 Most used line of code **git push origin main**
+
+- ✍️ Quote: One man’s crappy software is another man’s full-time job.
+
+- 👯 Reach out to me lets write the code.
+
+```
 
 <h2>🛠️ Languages and Tools</h2>
 
