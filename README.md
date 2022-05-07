@@ -17,8 +17,13 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 ```
     
-<div align="right">
-<a href="https://github.com/braincee" target="_blank">
+<div>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
+ [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
+ [![Gists Badge](https://badges.pufler.dev/gists/braincee)](https://badges.pufler.dev)
+ [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
+    
+ <a href="https://github.com/braincee" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 <a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40" height="40"/></a>
@@ -105,16 +110,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  
 <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true"/>
 <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
- 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
- [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
- [![Gists Badge](https://badges.pufler.dev/gists/braincee)](https://badges.pufler.dev)
- [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
- [![Profile last updated](https://img.shields.io/github/last-commit/braincee/braincee/main?label=Last%20updated&style=flat)
-    
- 
- 
- [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 </div>
 
