@@ -42,9 +42,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <h2>🛠️ Languages and Tools</h2>
 
- <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="400" width="400">
-<br>
-<br>
+ <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  height="400" width="500">
 <div>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
