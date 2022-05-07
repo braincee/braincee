@@ -125,7 +125,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <h2> ⚡ GITHUB STATS</h2>
 
 
-<div> 
+<div align="left"> 
 <img align="left" height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true"/>
 <img align="right" height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
 </div>
