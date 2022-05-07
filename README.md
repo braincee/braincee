@@ -41,7 +41,7 @@
 - 👯 Reach out and lets write the code.
 
 ```
-**Please have a look at My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/)
+**Please have a look at My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/) 🌐
 
 <h2>🛠️ Languages and Tools</h2>
 
