@@ -1,7 +1,7 @@
 <div align="right">
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
- [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee)](https://badges.pufler.dev)
+ [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
  
  </div>        
