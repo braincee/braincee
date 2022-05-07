@@ -1,6 +1,7 @@
 <div align="right">
  
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
+ [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
  
  </div>        
