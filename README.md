@@ -1,3 +1,11 @@
+<div align="right>
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
+ [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
+ [![Gists Badge](https://badges.pufler.dev/gists/braincee)](https://badges.pufler.dev)
+ [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
+</div>
+
+
 <h1 align="center">
 Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 </h1>
@@ -17,11 +25,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 ```
     
-<div>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
- [![Repos Badge](https://badges.pufler.dev/repos/braincee)](https://badges.pufler.dev)
- [![Gists Badge](https://badges.pufler.dev/gists/braincee)](https://badges.pufler.dev)
- [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
+<div align="right">
     
  <a href="https://github.com/braincee" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
