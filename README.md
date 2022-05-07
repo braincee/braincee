@@ -37,7 +37,7 @@
 
 - ✍️ Quote: One man’s crappy software is another man’s full-time job.
 
-- 👯 Reach out to me lets write the code.
+- 👯 Reach out and lets write the code.
 
 ```
 
