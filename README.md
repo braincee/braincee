@@ -41,7 +41,7 @@
 - 👯 Reach out and lets write the code.
 
 ```
-Please have a look at **My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/)
+**Please have a look at My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/)
 
 <h2>🛠️ Languages and Tools</h2>
 
@@ -111,12 +111,11 @@ Please have a look at **My Portfolio** [website](https://braincee.github.io/Port
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>
   </a>
 </div>
-
+<br>
+<br>
+<br>
+<br>
 **Repositories** to my projects can be found [here](https://github.com/braincee?tab=repositories)
-<br>
-<br>
-<br>
-<br>
 
 
 <h2> ⚡ GITHUB STATS</h2>
