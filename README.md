@@ -16,7 +16,16 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 - 👯 Reach out to me lets write the code.
 
 ```
-
+<div align="center">
+<a href="https://github.com/braincee" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="40" height="40"/></a>
+ <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="40" height="40"/></a>
+ <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40" height="40"/></a>
+ </div>
 
 <h2>🛠️ Languages and Tools</h2>
 
@@ -121,16 +130,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 <h2> 🌎 My Global village!</h2>
 
-<div align="center">
-<a href="https://github.com/braincee" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-<a href="mailto:kwesi938@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/kwesi-appiah-1387801a1/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-<a href="https://medium.com"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium" width="40" height="40"/></a>
- <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="40" height="40"/></a>
- <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40" height="40"/></a>
- </div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
