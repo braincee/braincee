@@ -28,7 +28,7 @@
  </div>
 
 ```
-- 👨🏻‍💻 I'm a self-taught Full-Stack developer changing the world with technology.
+- 👨🏻‍💻 I'm a self-taught Full-Stack developer from Ghana changing the world with technology.
 
 - ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
 
