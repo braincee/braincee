@@ -136,7 +136,7 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  
 <img align="left" height="200" width="490" src="https://github-readme-stats.vercel.app/api?username=braincee&theme=dracula&show_icon=true"/>
  
-<img align="right" height="200" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
+<img height="200" width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&layout=compact&theme=dracula"/>
  
 </div>
 <br>
