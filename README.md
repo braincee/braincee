@@ -23,6 +23,8 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 
 - 👯 Reach out to me lets write the code.
 
+```
+
 <div align="right">
     
  <a href="https://github.com/braincee" target="_blank">
@@ -34,8 +36,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
  <a href="https://twitter.com/https://twitter.com/annor0543"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="40" height="40"/></a>
  <a href="#"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40" height="40"/></a>
  </div>
-
-```
     
 
   
