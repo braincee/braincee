@@ -122,9 +122,6 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
   </a>
 </div>
 
-<br />
-<br />
-
 <h2> ⚡ GITHUB STATS</h2>
 
 
@@ -137,14 +134,10 @@ Hello Everyone <img src="https://user-images.githubusercontent.com/1303154/88677
 <h2> ⚡ CODING STATS</h2>
 
 
-<div>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/ad6fe6eb-f0c1-48cc-8bee-4cca05de1696.svg" height="500" width="500"/></a>
  
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/dd7f56dd-9b76-465c-a626-d3f46542e61f.svg" height="400" width="500"/></a>
-</div>
 
-<br>
-<br>
 
 
 <!--START_SECTION:waka-->
