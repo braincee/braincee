@@ -132,7 +132,7 @@
  
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ff5ccdfc-f35c-4752-b773-0b66276a364c/dd7f56dd-9b76-465c-a626-d3f46542e61f.svg" height="400" width="500"/></a>
 
-
+https://wakatime.com/badge/user/ff5ccdfc-f35c-4752-b773-0b66276a364c.svg
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
