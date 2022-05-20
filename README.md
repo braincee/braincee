@@ -3,6 +3,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee.braincee)
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/braincee?color=blue)](https://badges.pufler.dev)
   [![Years Badge](https://badges.pufler.dev/years/braincee)](https://badges.pufler.dev)
+ [![wakatime](https://wakatime.com/badge/user/ff5ccdfc-f35c-4752-b773-0b66276a364c.svg)](https://wakatime.com/@ff5ccdfc-f35c-4752-b773-0b66276a364c)
  
  </div>        
 
