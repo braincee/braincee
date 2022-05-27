@@ -34,7 +34,7 @@
 
 - 🔭 Currently sharpening my skills at Microverse
 
-- 💻 Most used line of code  --for(let i = 0; i < array.length; i++)--
+- 💻 Most used line of code  **for(let i = 0; i < array.length; i++)**
 
 - ✍️ Quote: One man’s crappy software is another man’s full-time job.
 
