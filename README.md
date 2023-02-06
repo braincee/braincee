@@ -26,11 +26,11 @@
  </div>
 
 ```
-- 👨🏻‍💻 Full-Stack developer from Ghana.
+- 👨🏻‍💻 Full-Stack Web developer from Ghana.
 
 - ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
 
-- 🎓 Fully Certified from [Microverse](https://www.microverse.org/).
+- 🎓 Fully Certified from [Microverse](https://www.microverse.org/)
 
 - 💻 Most used line of code  git push origin main
 
