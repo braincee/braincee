@@ -25,7 +25,7 @@
  <a href="https://www.instagram.com/appiah.korang/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram" width="40" height="40"/></a>
  </div>
 
-```
+
 - 👨🏻‍💻 Full-Stack Web developer from Ghana.
 
 - ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
@@ -38,7 +38,6 @@
 
 - 👯 Reach out and lets write the code.
 
-```
 😉 **Please have a look at My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/) 🌐 **and access to all my open-source projects on GitHub** [here](https://github.com/braincee?tab=repositories) 🖥
 
 <h2>🛠️ Languages and Tools</h2>
