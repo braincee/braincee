@@ -26,13 +26,13 @@
  </div>
 
 ```
-- 👨🏻‍💻 I'm a self-taught Full-Stack developer from Ghana changing the world with technology.
+- 👨🏻‍💻 Full-Stack developer from Ghana.
 
 - ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
 
-- 🔭 Currently sharpening my skills at Microverse
+- 🎓 Fully Certified from [Microverse](https://www.microverse.org/).
 
-- 💻 Most used line of code  **for(let i = 0; i < array.length; i++)**
+- 💻 Most used line of code  git push origin main
 
 - ✍️ Quote: One man’s crappy software is another man’s full-time job.
 
