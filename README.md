@@ -1,6 +1,6 @@
 <div align="right">
  
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=braincee)
+![](https://komarev.com/ghpvc/?username=braincee)
  [![wakatime](https://wakatime.com/badge/user/ff5ccdfc-f35c-4752-b773-0b66276a364c.svg)](https://wakatime.com/@ff5ccdfc-f35c-4752-b773-0b66276a364c)
  
  </div>        
