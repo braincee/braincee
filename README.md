@@ -1,8 +1,4 @@
 <div align="right">
- <a href = "https://commits.top/ghana.html" target="_blank">
-   <img src="https://enabophag4mizla.m.pipedream.net" alt="braincee" target="_blank"/>
- </a>
- 
    ![](https://komarev.com/ghpvc/?username=braincee)
    [![wakatime](https://wakatime.com/badge/user/ff5ccdfc-f35c-4752-b773-0b66276a364c.svg)](https://wakatime.com/@ff5ccdfc-f35c-4752-b7730b66276a364c)
  </div>        
