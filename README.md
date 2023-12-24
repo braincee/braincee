@@ -116,11 +116,6 @@
 <br>
 <br>
 <br>
-<h2> ⚡ GITHUB STATS</h2>
-
-
-<h2> ⚡ CODING STATS</h2>
-
 
 <div><figure><embed src="https://wakatime.com/share/@braincee/46624165-d022-4fff-a116-47ef4c262004.svg"></embed></figure></div>
 
