@@ -118,8 +118,8 @@
 <br>
 
 <div >
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braincee&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 <div><figure><embed src="https://wakatime.com/share/@braincee/46624165-d022-4fff-a116-47ef4c262004.svg"></embed></figure></div>
