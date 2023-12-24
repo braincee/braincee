@@ -122,8 +122,5 @@
 <h2> ⚡ CODING STATS</h2>
 
 
-<div><h2><figure><embed src="https://wakatime.com/share/@braincee/a9d6446b-4da9-4851-a33c-dd6200c49807.svg"></embed></figure></h2></div>
+<div><figure><embed src="https://wakatime.com/share/@braincee/46624165-d022-4fff-a116-47ef4c262004.svg"></embed></figure></div>
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
