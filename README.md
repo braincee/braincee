@@ -123,6 +123,6 @@
 </div>
 
 <div>
-   <figure><embed src="https://wakatime.com/share/@braincee/6f83dc2f-f38e-4437-81c9-bc5ee53db996.svg"></embed></figure>
+  <figure><embed src="https://wakatime.com/share/@braincee/900cdc0a-4a4b-4223-95fb-f480b1a46edd.svg"></embed></figure>
 </div>
 
