@@ -122,3 +122,7 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&show_icons=true&theme=default&layout=compact"/>
 </div>
 
+<div>
+   <figure><embed src="https://wakatime.com/share/@braincee/6f83dc2f-f38e-4437-81c9-bc5ee53db996.svg"></embed></figure>
+</div>
+
