@@ -118,8 +118,8 @@
 <br>
 
 <div >
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braincee&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=braincee&show_icons=true&theme=dark"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braincee&show_icons=true&theme=dark"/>
 </div>
 
 <div>
