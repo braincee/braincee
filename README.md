@@ -29,7 +29,7 @@
 ```
 - 👨🏻‍💻 Full-Stack Web developer from Ghana.
 
-- ⏳ I code and learn new skills daily, build realtime projects and collaborate effectively with coding partners.
+- ⏳ I code and learn new skills daily, build real-time projects, and collaborate effectively with coding partners.
 
 - 🎓 Fully Certified from Microverse.
 
@@ -37,10 +37,10 @@
 
 - ✍️ Quote: One man’s crappy software is another man’s full-time job.
 
-- 👯 Reach out and lets write the code.
+- 👯 Reach out and let's write the code.
 
 ```
-😉 **Please have a look at My Portfolio** [website](https://braincee.github.io/Portfolio-Webstie/) 🌐.
+😉 **Please have a look at My Portfolio** [website](https://kwesi-annor.vercel.app/) 🌐.
 
 <h2>🛠️ Languages and Tools</h2>
 
